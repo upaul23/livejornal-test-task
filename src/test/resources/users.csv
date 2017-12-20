@@ -1,0 +1,5 @@
+id/login/password/email/phone
+1/upaul23/Abcd123/upaul@mail.ru/+79123456789
+2/deleted/132/test@test.com/+791111111111
+3/nonexistentUser/123/nonexistentUser@test.com/+791111111111
+4/wrongPassword/123/wrongPassword/+791111111111
